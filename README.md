@@ -1,16 +1,12 @@
-Hello👋
-Currently Creating Bugs⚡
-<!--
-**BIGSUS24/BIGSUS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Shivam 👋
 
-Here are some ideas to get you started:
+### About Me
+- 💻 I’m a passionate coder who loves working with **C++**, **HTML**, and **CSS**.
+- 🌱 Currently exploring new projects and learning more about web development.
+- 🔭 I’m always open to collaborating on interesting projects, especially in the field of **web design** and **C++ programming**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills
+- **Languages**: C++, HTML, CSS
+
+### Projects
+- 🚀 Check out some of my cool projects on my GitHub repositories!
