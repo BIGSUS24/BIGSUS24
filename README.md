@@ -6,7 +6,7 @@
 - 🔭 I’m always open to collaborating on interesting projects
 
 ### My Skills
-- **Languages**: C++, HTML, CSS
+- **Languages**: C++, HTML, CSS ,JS
 
 ### Projects
 - 🚀 Check out some of my cool projects on my GitHub repositories!
